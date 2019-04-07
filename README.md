@@ -4,3 +4,8 @@ Implementation of packet sniffer using sockets in python. A very simple sniffer 
 
 Imppleemting packet snffer that intercepts a victim traffic through arpspoofing and sniffing important detials like cookie, username and password and are returned /sent to mail to hacker. Written using scapy python.
 Impleemntation of packet sniffer using pcap library in C language. This has basic fucntions but a high overview of using the pcap library for capturing the packets.
+
+This project is done as a part of KLUDGE IIT HYDERABAD - 2018 
+Done By SAI MAHIDHAR
+KLUDGE CORE
+BTECH - ENGINEERING SCIENCES
